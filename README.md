@@ -4,7 +4,7 @@ Python Flask Geolocator, Ip Tracker, Device Info by URL (Ngrok Hosting)
 # Features:
 <li>Get victim's device IP address.</li>
 <li>Get victim's living country.</li>
-<li>Get victim's browser and browser version.</li>
+<li>Get victim's current browser and browser version.</li>
 <li>Get victim's user-agent.</li>
 <li>Get victim's service provider.</li>
 <li>Log all data to a text file.</li>
