@@ -1,5 +1,15 @@
-# FlaskLocator - v.1.0
+# FlaskLocator - v.2.0
 Python Flask Geolocator, Ip Tracker, Device Info by URL (Ngrok Hosting) 
+
+# Features:
+<li>Get victim's device IP address.</li>
+<li>Get victim's living country.</li>
+<li>Get victim's browser and browser version.</li>
+<li>Get victim's user-agent.</li>
+<li>Get victim's service provider.</li>
+<li>Log all data to a text file.</li>
+<li>Anonymous ngrok web hosting.</li>
+<li>Custom redirects.  </li>
 
 # Installation:
 <li>You will need to have Ngrok installed for it to work. (<b>Ngrok Download Page</b>: https://ngrok.com/download)</li>
